@@ -45,9 +45,8 @@ This dashboard helps hospital management to:
 ---
 
 ## Dashboard Preview
-<img width="1338" height="490" alt="Dashboard" src="https://github.com/user-attachments/assets/your-image-link"/>
+<img width="1337" height="493" alt="Dashboard" src="https://github.com/user-attachments/assets/f31aee8e-863f-4497-b09e-ae835566a45a" />
+
 
 ---
 
-## Author
-Anuj Pal
